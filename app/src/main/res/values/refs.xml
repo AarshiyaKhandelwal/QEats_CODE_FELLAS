@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="resto1">
+        /home/crio-user/AndroidStudioProjects/QEats_CODE_FELLAS/app/src/main/res/drawable/images/Resto1.jpeg
+    </drawable>
+    <drawable name="resto2">
+        /home/crio-user/AndroidStudioProjects/QEats_CODE_FELLAS/app/src/main/res/drawable/images/resto2.jpeg
+    </drawable>
+    <drawable name="resto3">
+        /home/crio-user/AndroidStudioProjects/QEats_CODE_FELLAS/app/src/main/res/drawable/images/resto3.jpeg
+    </drawable>
+    <drawable name="resto4">
+        /home/crio-user/AndroidStudio/QEats_CODE_FELLAS/app/src/main/res/drawable/images/resto4.jpeg
+    </drawable>
+    <drawable name="resto5">
+        /home/crio-user/AndroidStudioProjects/QEats_CODE_FELLAS/app/src/main/res/drawable/images/resto4.jpeg
+    </drawable>
+    <drawable name="resto6">
+        /home/crio-user/AndroidStudioProjects/QEats_CODE_FELLAS/app/src/main/res/drawable/images/resto5.jpeg
+    </drawable>
+</resources>
